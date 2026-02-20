@@ -8,14 +8,14 @@ Creado para facilitar la gestión de testing manual en proyectos pequeños, ofre
 ## Capturas de Pantalla
 
 <p align="center">
-  <img src="Capturas/1.png" alt="Captura 1" width="45%"/>
+  <img src="Capturas/1.PNG" alt="Captura 1" width="45%"/>
   &nbsp;&nbsp;
-  <img src="Capturas/2.png" alt="Captura 2" width="45%"/>
+  <img src="Capturas/2.PNG" alt="Captura 2" width="45%"/>
 </p>
 <p align="center">
-  <img src="Capturas/3.png" alt="Captura 3" width="45%"/>
+  <img src="Capturas/3.PNG" alt="Captura 3" width="45%"/>
   &nbsp;&nbsp;
-  <img src="Capturas/4.png" alt="Captura 4" width="45%"/>
+  <img src="Capturas/4.PNG" alt="Captura 4" width="45%"/>
 </p>
 
 ## Características Principales
