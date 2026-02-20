@@ -19,8 +19,6 @@ Creado para facilitar la gestión de testing manual en proyectos pequeños, ofre
 </p>
 
 ## Características Principales
-...
-
 ### Gestión de Bugs
 - Ciclo completo: Nuevo → En Progreso → Resuelto → Cerrado
 - Severidad y prioridad configurables
@@ -36,7 +34,7 @@ Creado para facilitar la gestión de testing manual en proyectos pequeños, ofre
 - Tipos: Funcional, Regresión, Integración, Smoke, Performance
 
 ### Reportes Profesionales
-- **Exportación a PDF con gráficos** (perfecto para presentar a clientes)
+- **Exportación a PDF con gráficos** 
 - Excel con formato y colores
 - Word para documentación
 - CSV para análisis de datos
@@ -54,7 +52,6 @@ Creado para facilitar la gestión de testing manual en proyectos pequeños, ofre
 - Atajos de teclado para todo
 
 ## Instalación
-
 ### Requisitos
 - Python 3.8 o superior
 - Windows, macOS o Linux
@@ -82,7 +79,6 @@ F5      →  Refrescar vista
 ```
 
 ## Donde quedan mis datos?
-
 Todo se guarda localmente en la carpeta `qa_data/`:
 
 ```
@@ -97,7 +93,6 @@ qa_data/
 **Ventaja:** Puedes copiar esta carpeta a cualquier computadora y todos tus datos van contigo.
 
 ## Casos de uso pensado: 
-
 **Para Freelancers:**
 - Gestiona 3, 5, 10 proyectos de clientes sin pagar nada
 - Genera reportes profesionales para entregar
@@ -125,4 +120,4 @@ MIT - Úsalo como quieras, personal o comercial.
 
 ---
 
-**Nota:** Esta herramienta la construí para resolver mis propias necesidades como tester QA. La comparto esperando que te sea útil también. Si te ayuda, dame una estrella en GitHub.
+**Nota:** Esta herramienta la construí para resolver mis propias necesidades como tester QA. La comparto esperando que te sea útil también.
