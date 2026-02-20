@@ -1,0 +1,48 @@
+# QA Manager - gitignore
+
+# QA data directory (user data)
+qa_data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.spec
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
